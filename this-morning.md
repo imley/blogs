@@ -1,7 +1,7 @@
 Title: 记一下今天早晨
 Date: 2009-05-12 16:36
 Author: Ley
-Category: 小学作文, 杂文
+Category: 小学作文
 Slug: this-morning
 
 ![][]

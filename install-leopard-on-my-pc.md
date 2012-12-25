@@ -1,7 +1,7 @@
 Title: 在自己本本上装了个Mac OS X
 Date: 2009-05-16 14:22
 Author: Ley
-Category: OS, 说明文
+Category: 说明文
 Slug: install-leopard-on-my-pc
 Tags: Leopard, MAC, OS
 

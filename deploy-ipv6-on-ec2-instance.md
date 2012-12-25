@@ -1,9 +1,9 @@
 Title: EC2上配置IPV6
 Date: 2011-11-21 16:17
 Author: Ley
-Category: OS, 网络, 说明文
+Category: 说明文
 Slug: deploy-ipv6-on-ec2-instance
-Tags: ec2, ipv6
+Tags: ec2, ipv6, amazon
 
 前两天弄了这台主机以后，就发现连接速度那是相当慢啊——于是，终于忍不住的我，今天把服务器换到了东京机房——不过这是后话了...
 

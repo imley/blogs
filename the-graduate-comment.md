@@ -1,7 +1,7 @@
 Title: 原来这真的是一部喜剧——评“毕业生”
 Date: 2010-01-21 11:45
 Author: Ley
-Category: 什么以后, 电影
+Category: 杂文
 Slug: the-graduate-comment
 Tags: 影评, 毕业生, 电影
 

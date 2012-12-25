@@ -1,9 +1,9 @@
 Title: 岁月神偷
 Date: 2010-04-18 00:15
 Author: Ley
-Category: 什么以后, 电影
+Category: 杂文
 Slug: echoes-of-the-rainbow
-Tags: 电影, 香港电影
+Tags: 电影, 香港电影, 影评
 
 [![][]][]要不是[时光网][]之前的卖力宣传，我可能不会对这个名字听起来像是“神雕大侠”的电影感兴趣。
 

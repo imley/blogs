@@ -1,7 +1,7 @@
 Title: 在Wordpress MU首页调用登陆接口的方法
 Date: 2009-04-15 12:00
 Author: Ley
-Category: wordpress, 编程
+Category: 说明文
 Slug: show-the-login-window-on-the-index-in-wpmu
 Tags: php, wordpress
 

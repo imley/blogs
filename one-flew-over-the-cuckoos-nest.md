@@ -1,7 +1,7 @@
 Title: 该出的还是出了
 Date: 2009-12-11 08:45
 Author: Ley
-Category: 杂文, 网络, 说明文
+Category: 小学作文
 Slug: one-flew-over-the-cuckoos-nest
 Tags: dns, 域名, 备案
 

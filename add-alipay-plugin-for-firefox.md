@@ -1,9 +1,9 @@
 Title: Firefox支付宝插件安装问题的解决
 Date: 2009-05-09 20:59
 Author: Ley
-Category: 网络, 说明文
+Category: 说明文
 Slug: add-alipay-plugin-for-firefox
-Tags: firefox, 插件, 支付宝
+Tags: firefox, 插件, 支付宝, 网络
 
 ![][]![][1]
 

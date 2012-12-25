@@ -1,7 +1,7 @@
 Title: 平安夜
 Date: 2009-12-24 22:12
 Author: Ley
-Category: wordpress, 网络, 说明文
+Category: 说明文
 Slug: christmas-eve
 Tags: godaddy, wordpress, 支付宝
 

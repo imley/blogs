@@ -1,7 +1,7 @@
 Title: 维护也上VeryCD下东西~
 Date: 2009-06-07 05:31
 Author: Ley
-Category: 网络, 说明文
+Category: 说明文
 Slug: verycd-at-this-very-time
 Tags: verycd, 电驴
 

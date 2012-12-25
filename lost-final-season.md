@@ -1,7 +1,7 @@
 Title: 迷失最后一季
 Date: 2010-02-04 17:30
 Author: Ley
-Category: 什么以后, 电视
+Category: 杂文
 Slug: lost-final-season
 Tags: lost, 美剧
 

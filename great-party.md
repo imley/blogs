@@ -1,9 +1,9 @@
 Title: 建党伟业
 Date: 2011-06-16 22:50
 Author: Ley
-Category: 什么以后, 电影
+Category: 杂文
 Slug: great-party
-Tags: 建党伟业, 电影, 陈公博
+Tags: 建党伟业, 电影, 陈公博, 影评
 
 ![建党伟业][]虽然最近twitter上头水这部电影的人很多，估计真正鼓起勇气去看了的人，还真没有多少。作为头一批吃螃蟹的人，我骄傲。
 

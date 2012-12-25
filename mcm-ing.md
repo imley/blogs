@@ -1,7 +1,7 @@
 Title: MCMing~
 Date: 2010-02-21 01:22
 Author: Ley
-Category: 小学作文, 杂文
+Category: 小学作文
 Slug: mcm-ing
 Tags: Geographic Profiling, MCM
 

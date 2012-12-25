@@ -1,7 +1,7 @@
 Title: 推荐一个乐队——托特巴士大乐团
 Date: 2009-05-12 20:44
 Author: Ley
-Category: 什么以后, 音乐
+Category: 杂文
 Slug: torte-bus
 Tags: indie, 拖特巴士, 音乐
 

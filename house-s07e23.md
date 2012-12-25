@@ -1,7 +1,7 @@
 Title: House第七季第23集
 Date: 2011-06-09 00:55
 Author: Ley
-Category: 什么以后, 电视
+Category: 杂文
 Slug: house-s07e23
 Tags: house, 美剧
 
