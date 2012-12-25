@@ -1,7 +1,7 @@
 Title: 推荐几个本地快速搭建php运行环境的工具
 Date: 2009-05-06 10:16
 Author: Ley
-Category: 议论文
+Category: 说明文
 Slug: some-tools-set-up-local-php-environment
 Tags: apache, php
 

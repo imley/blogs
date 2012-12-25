@@ -1,7 +1,7 @@
 Title: 飞信里头还真多了一个“王林”
 Date: 2009-05-01 08:52
 Author: Ley
-Category: 议论文
+Category: 小学作文
 Slug: wang-lin-in-the-fetion
 Tags: 王林, 飞信
 
