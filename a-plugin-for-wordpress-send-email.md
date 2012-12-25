@@ -1,7 +1,7 @@
 Title: 推荐一个让wordpress能发邮件的插件^
 Date: 2009-04-21 11:07
 Author: Ley
-Category: wordpress
+Category: 说明文
 Slug: a-plugin-for-wordpress-send-email
 Tags: wordpress, 插件, 邮件
 

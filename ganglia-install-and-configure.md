@@ -1,7 +1,7 @@
 Title: Ganglia安装配置手记
 Date: 2010-06-08 23:51
 Author: Ley
-Category: 网络
+Category: 说明文
 Slug: ganglia-install-and-configure
 Tags: ganglia, linux, 网络
 

@@ -1,7 +1,7 @@
 Title: 域名使用经验谈
 Date: 2009-04-23 21:07
 Author: Ley
-Category: 网络
+Category: 说明文
 Slug: something-about-domain-name
 Tags: a记录, cname, dns, godaddy, 动态域名, 域名, 域名解析
 

@@ -1,7 +1,7 @@
 Title: 将搜狗浏览器的教育网加速功能应用到firefox
 Date: 2009-04-21 12:47
 Author: Ley
-Category: 网络
+Category: 说明文
 Slug: sogou-explorer-speed-improve-use-on-other-browser
 Tags: 代理服务器, 加速, 搜狗, 教育网
 
