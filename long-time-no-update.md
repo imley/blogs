@@ -2,6 +2,7 @@ Title: 软文一篇
 Date: 2010-04-07 13:54
 Author: Ley
 Category: 小学作文
+Slug: long-time-no-update
 Tags: geekcook, 软文
 
 好久没有来更新博客了，自从实习开始以后，事情比较多。于是有借口不更新了。[![geekcook杯具][]][]

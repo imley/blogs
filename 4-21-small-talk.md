@@ -2,6 +2,7 @@ Title: 4-21碎碎念
 Date: 2011-04-22 23:02
 Author: Ley
 Category: 小学作文
+Slug: 4-21-small-talk
 
 这个博客或许真的要荒废了。
 

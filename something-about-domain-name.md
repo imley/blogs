@@ -2,6 +2,7 @@ Title: 域名使用经验谈
 Date: 2009-04-23 21:07
 Author: Ley
 Category: 网络
+Slug: something-about-domain-name
 Tags: a记录, cname, dns, godaddy, 动态域名, 域名, 域名解析
 
 最近心血来潮搭博客，不过不管是[用自己的机器当服务器][]，还是把网站放在别人的主机上，要让别人访问到你的网站，一个好记的域名是必不可少的，除非，你打算别人通过输入一段冗长的IP来访问到你的站点。

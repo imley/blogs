@@ -2,6 +2,7 @@ Title: 换主题（临时）
 Date: 2011-07-07 11:28
 Author: Ley
 Category: 小学作文
+Slug: twenty-eleven
 Tags: wordpress, 主题
 
 ![][]

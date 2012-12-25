@@ -2,6 +2,7 @@ Title: 最近在干嘛
 Date: 2011-11-17 19:51
 Author: Ley
 Category: 小学作文
+Slug: what-am-i-doing
 
 今天开通了[lofter][]，多亏了这个博客，填上博客，邀请码马上就申请下来了。
 

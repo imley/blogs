@@ -2,6 +2,7 @@ Title: 立此存照
 Date: 2010-01-13 19:57
 Author: Ley
 Category: 杂文
+Slug: this-day
 Tags: GFW, google
 
 [![][]][]今天Google官网发表声明说了好多东西，其实我们都知道，Google.cn为什么要走了。

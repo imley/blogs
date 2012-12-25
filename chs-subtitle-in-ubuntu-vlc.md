@@ -2,6 +2,7 @@ Title: ubuntu下VLC中文字幕显示问题的解决
 Date: 2009-12-19 00:11
 Author: Ley
 Category: OS, 抄袭作文, 说明文
+Slug: chs-subtitle-in-ubuntu-vlc
 Tags: linux, ubuntu, vlc
 
 为了为可能进入的实验室实习做准备，今天重新装上了ubuntu，今天的安装总的来说还是顺利多了。在播放软件上，这次我选择了VLC，因为感觉mplayer虽然强大，但是始终界面不是十分友好。而VLC也是灰常强大的。

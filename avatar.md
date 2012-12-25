@@ -2,6 +2,7 @@ Title: 阿凡达观影报告
 Date: 2010-01-04 18:26
 Author: Ley
 Category: 什么以后, 电影
+Slug: avatar
 Tags: 3D, IMAX, 华星, 影评, 电影, 阿凡达
 
 [![][]][]

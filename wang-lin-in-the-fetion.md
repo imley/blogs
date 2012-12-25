@@ -2,6 +2,7 @@ Title: 飞信里头还真多了一个“王林”
 Date: 2009-05-01 08:52
 Author: Ley
 Category: 议论文
+Slug: wang-lin-in-the-fetion
 Tags: 王林, 飞信
 
 前些天，[看yegle在twitter][]上说中国移动很sb，居然给每个人都加了一个叫“王林”的好友，还会问你在干嘛\~当时就看了一下自己的飞信，没有这个人的啊...当时还以为是yegle一个人，或者是小范围的事件。

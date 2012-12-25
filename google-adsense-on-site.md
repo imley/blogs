@@ -2,6 +2,7 @@ Title: 终于弄上Google Adsense了
 Date: 2009-12-16 11:57
 Author: Ley
 Category: 说明文
+Slug: google-adsense-on-site
 Tags: google adsense, 免费
 
 [![][]][]在经历过无数次的申请后，在我这个博客荒废了多个月后，我终于成功地把google

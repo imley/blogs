@@ -2,6 +2,7 @@ Title: Google网站管理员工具更新了
 Date: 2009-05-14 01:18
 Author: Ley
 Category: 网络, 说明文
+Slug: google-webmaster-tools-changing
 Tags: google, seo, 网站管理员工具
 
 ![][]

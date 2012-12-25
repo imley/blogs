@@ -2,6 +2,7 @@ Title: Long time no see
 Date: 2010-12-17 02:07
 Author: Ley
 Category: 小学作文
+Slug: long-time-no-see
 Tags: android, php, python, wordpress
 
 其实这个时候我已经好困好困了，所以说我不是传统意义上的失眠没事做。

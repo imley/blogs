@@ -2,6 +2,7 @@ Title: 从四道口到五道口
 Date: 2010-03-13 16:12
 Author: Ley
 Category: 杂文
+Slug: from-wudaokou-to-sidaokou
 Tags: 实习
 
 [![][]][]今天上午去了趟实验室，然后骑自行车回来，快到学校的时候，突然发现前面转弯的地方牌子上写着几个大字：四道口。

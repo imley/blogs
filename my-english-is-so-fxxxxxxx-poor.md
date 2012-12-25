@@ -2,6 +2,7 @@ Title: 让豆瓣小组帖子按时间排序
 Date: 2011-07-14 00:39
 Author: Ley
 Category: 网络, 说明文
+Slug: my-english-is-so-fxxxxxxx-poor
 Tags: Google Reader, rss, 小组, 插件, 豆瓣
 
 ![豆瓣

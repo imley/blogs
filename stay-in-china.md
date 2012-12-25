@@ -2,6 +2,7 @@ Title: 坚守在祖国...
 Date: 2009-04-14 21:58
 Author: Ley
 Category: 小学作文
+Slug: stay-in-china
 Tags: 出国
 
 最近出国这个词经常在我面前飘，当然，和大D在一个房不想听到也不行。。。

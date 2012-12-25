@@ -2,6 +2,7 @@ Title: WordPress的性能瓶颈
 Date: 2011-11-24 20:38
 Author: Ley
 Category: OS, wordpress, 网络, 说明文
+Slug: wordpress-performance-bottleneck
 
 如果不是有这个free usage trial（感谢[亚马逊][]），我不会这么快用上VPS；
 

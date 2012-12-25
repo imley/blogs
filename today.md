@@ -2,6 +2,7 @@ Title: 今年跟去年不一样
 Date: 2010-06-04 01:24
 Author: Ley
 Category: 小学作文
+Slug: today
 Tags: 今天, 出息
 
 [![][]][]

@@ -2,6 +2,7 @@ Title: 响应号召，闭站几天~
 Date: 2009-06-03 16:05
 Author: Ley
 Category: 小学作文
+Slug: site-closed
 
 RT，这将是从我开始好好写东西以来最水的一篇文章。
 

@@ -2,6 +2,7 @@ Title: 推荐一个让wordpress能发邮件的插件^
 Date: 2009-04-21 11:07
 Author: Ley
 Category: wordpress
+Slug: a-plugin-for-wordpress-send-email
 Tags: wordpress, 插件, 邮件
 
 昨天突然觉得我在自己机器上搭的wordpress系统有一点毛病，就是无法给注册用户发送通知邮件，也无法给管理员发送邮件。

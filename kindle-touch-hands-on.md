@@ -2,6 +2,7 @@ Title: kindle touch到手
 Date: 2011-12-08 15:00
 Author: Ley
 Category: 小学作文, 说明文
+Slug: kindle-touch-hands-on
 
 ![kindle touch][]
 

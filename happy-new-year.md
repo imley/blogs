@@ -2,6 +2,7 @@ Title: 新年快乐
 Date: 2010-01-01 10:27
 Author: Ley
 Category: 杂文
+Slug: happy-new-year
 Tags: 木有标签
 
 <p>

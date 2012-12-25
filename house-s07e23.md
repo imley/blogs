@@ -2,6 +2,7 @@ Title: House第七季第23集
 Date: 2011-06-09 00:55
 Author: Ley
 Category: 什么以后, 电视
+Slug: house-s07e23
 Tags: house, 美剧
 
 ![][]这两天，乘着毕设论文完成，还没有被勒令大规模整改的这段时间，把House第七季剩下的，额，11-23集，补完了。

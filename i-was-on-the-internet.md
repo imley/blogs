@@ -2,6 +2,7 @@ Title: I was on the Internet
 Date: 2009-12-09 13:08
 Author: Ley
 Category: 小学作文, 议论文
+Slug: i-was-on-the-internet
 
 [![][]][]大概是译言停站的那一天，我所在的位于景德镇的博客服务器，因为整治低俗，被封了\~当然我没有译言那么大头，我甚至都不能叫自己炮灰，我只是莫名其妙某一天起来，就发现自己的博客上不去了。
 

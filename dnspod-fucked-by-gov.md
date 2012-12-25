@@ -2,6 +2,7 @@ Title: DNSPod也沦陷了
 Date: 2009-12-20 00:14
 Author: Ley
 Category: 杂文
+Slug: dnspod-fucked-by-gov
 
 [![][]][]什么也不多说了，今天收到DNSPod的邮件，马上把域名解析转回了GoDaddy，邮件内容如下：
 

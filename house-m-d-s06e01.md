@@ -2,6 +2,7 @@ Title: House M.D. 第六季第一、二集剧评
 Date: 2009-09-23 12:03
 Author: Ley
 Category: 什么以后, 杂文, 电视
+Slug: house-m-d-s06e01
 
 [![][]][]
 

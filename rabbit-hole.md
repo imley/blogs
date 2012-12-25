@@ -2,6 +2,7 @@ Title: 兔子洞
 Date: 2011-06-13 22:09
 Author: Ley
 Category: 什么以后, 电影
+Slug: rabbit-hole
 Tags: 电影
 
 ![source

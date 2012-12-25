@@ -2,6 +2,7 @@ Title: 杀毒软件导致电脑打开文件夹速度变慢
 Date: 2009-04-28 17:28
 Author: Ley
 Category: 说明文
+Slug: anti-virus-software-slow-down-the-system-while-opening-the-folder
 Tags: 卡巴, 杀毒软件, 系统变慢
 
 首先声明，以下的内容仅仅是本人的**经验之谈**，并未得到很好的证明，所以，也只是给大家一个参考，在遇到这样的问题时，能够多一种方法来解决问题。

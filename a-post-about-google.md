@@ -2,6 +2,7 @@ Title: 一帖——关于Google
 Date: 2010-01-14 10:25
 Author: Ley
 Category: 杂文
+Slug: a-post-about-google
 Tags: google
 
 [![][]][]这篇文章原是我发在学校论坛上的，因为看到上面各种言论风起云涌，我以为我可以发出去，但是，虽然研究表明女性的G点可能不存在，但是论坛的G点肯定是有的。我不禁感叹，要是一个女人能像论坛一样，肯定会很"xing福"。

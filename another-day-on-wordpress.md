@@ -2,6 +2,7 @@ Title: 又弄了一天wordpress...
 Date: 2009-04-19 17:54
 Author: Ley
 Category: 小学作文
+Slug: another-day-on-wordpress
 Tags: apache, wordpress
 
 天啊，今天电影都没有怎么看，就是弄wordpress去了，不过，发现wordpress真的很好很强大。

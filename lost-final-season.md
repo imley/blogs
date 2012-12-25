@@ -2,6 +2,7 @@ Title: 迷失最后一季
 Date: 2010-02-04 17:30
 Author: Ley
 Category: 什么以后, 电视
+Slug: lost-final-season
 Tags: lost, 美剧
 
 [![][]][]这步多少年的美剧啊，总算是到了最后一季了。

@@ -2,6 +2,7 @@ Title: 很水的文章
 Date: 2009-05-08 22:14
 Author: Ley
 Category: 小学作文
+Slug: an-elementary-work
 Tags: wordpress
 
 ![][]

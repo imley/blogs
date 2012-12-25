@@ -2,6 +2,7 @@ Title: 毕业了
 Date: 2011-06-30 12:07
 Author: Ley
 Category: 小学作文
+Slug: i-graduate
 Tags: 07404, 大学, 毕业
 
 ![][]我也毕业了。

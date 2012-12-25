@@ -2,6 +2,7 @@ Title: 两个视频
 Date: 2012-05-29 13:25
 Author: Ley
 Category: 小学作文
+Slug: two-videos
 
 中午从驾校回来，看了两个视频，因为刚看完前面一个，看完第二个，哭了。
 

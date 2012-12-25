@@ -2,6 +2,7 @@ Title: MCMing~
 Date: 2010-02-21 01:22
 Author: Ley
 Category: 小学作文, 杂文
+Slug: mcm-ing
 Tags: Geographic Profiling, MCM
 
 [![][]][]写这篇文章的主要目的其实是去豆瓣认领一下Blog。

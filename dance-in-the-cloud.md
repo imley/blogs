@@ -2,6 +2,7 @@ Title: 云中漫步
 Date: 2011-11-18 22:09
 Author: Ley
 Category: 小学作文
+Slug: dance-in-the-cloud
 Tags: aws, ec2, vps
 
 昨天刚说要申请AWS的账户，今天就弄了台主机，把博客迁到EC2上头了，真是看了一堆教程以后手痒，没有办法。也不管他原来的主机还有五个月才到期了。

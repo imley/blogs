@@ -2,6 +2,7 @@ Title: 祝我生日快乐~
 Date: 2009-05-04 17:02
 Author: Ley
 Category: 小学作文
+Slug: happy-birthday-to-me
 Tags: 五四, 生日
 
 在本文前，先给我的妈妈，爸爸说声“谢谢，我爱你们:)”。

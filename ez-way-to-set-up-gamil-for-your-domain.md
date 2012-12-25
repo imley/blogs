@@ -2,6 +2,7 @@ Title: 注册Gmail免费企业邮箱~已经没有那么麻烦啦
 Date: 2009-05-08 07:56
 Author: Ley
 Category: 网络, 说明文
+Slug: ez-way-to-set-up-gamil-for-your-domain
 Tags: gmail, 企业邮箱, 免费
 
 [![][]][]

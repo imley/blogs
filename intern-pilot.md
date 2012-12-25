@@ -2,6 +2,7 @@ Title: 实习第一天
 Date: 2010-03-11 09:01
 Author: Ley
 Category: 小学作文
+Slug: intern-pilot
 Tags: 实习
 
 首先要感谢国家，给我这个实习的机会。

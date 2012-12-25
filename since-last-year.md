@@ -2,6 +2,7 @@ Title: 一年以来
 Date: 2012-06-04 17:16
 Author: Ley
 Category: 杂文
+Slug: since-last-year
 
 距离去年的今天，一年了。
 

@@ -2,6 +2,7 @@ Title: 一年多了
 Date: 2010-05-01 17:25
 Author: Ley
 Category: 小学作文
+Slug: blog-for-a-year
 Tags: IXWebhosting, wordpress, 主机, 优点, 博客, 年度总结, 缺点
 
 由于有去年在[学29][]的那一段住席梦思，供通宵电，上0节课的幸福时光，闲得蛋疼的我在自己的电脑上架服务器搭了个blog。起初的时候，我还不是用的WordPress，而是某Php轻量级Blog——[JBlog][]。

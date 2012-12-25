@@ -2,6 +2,7 @@ Title: 该出的还是出了
 Date: 2009-12-11 08:45
 Author: Ley
 Category: 杂文, 网络, 说明文
+Slug: one-flew-over-the-cuckoos-nest
 Tags: dns, 域名, 备案
 
 [![][]][]折腾了一个晚上加一个清晨（早上六点多起来了），总算是把主机搬到国外了，现在的家安在免费的[000webhost.com][],选择这里的原因是这个地方很不错，服务甚至比国内许多IDC要好很多（只是如果网站长期没有流量会被delete），而国内的reseller太多，太难选择，更重要的是，在金融危机的冲击下，我已经破产了。

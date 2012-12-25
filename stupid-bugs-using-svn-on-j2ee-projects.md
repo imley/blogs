@@ -2,6 +2,7 @@ Title: J2EE的巨2的svn错误
 Date: 2011-05-18 11:55
 Author: Ley
 Category: 编程, 说明文
+Slug: stupid-bugs-using-svn-on-j2ee-projects
 Tags: j2ee, java, svn
 
 起因：
