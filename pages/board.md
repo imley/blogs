@@ -1,7 +1,7 @@
 Title: 留言版
 Date: 2009-04-19 02:40
 Author: Ley
-Slug: board
+Slug: msg-board 
 Template: board
 
 曾经这个页面的名字叫照片，后来没有照片了，就叫它留言版吧~
